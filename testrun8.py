@@ -27,6 +27,6 @@ def test_run():
     plt.show()
 
     # Compute kurtosis
-    print(daily_returns.kurtosis()s)
+    print(daily_returns.kurtosis())
 if __name__ == "__main__":
     test_run()
